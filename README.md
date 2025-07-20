@@ -1,4 +1,4 @@
-<img width="720" height="1600" alt="Screenshot_20250720_135735" src="https://github.com/user-attachments/assets/e1490e81-a6a1-43a7-89d9-ca6edf314fbf" /># 🚇 Metro Status Informer (MSI App)
+# 🚇 Metro Status Informer (MSI App)
 
 A Flutter app that displays live metro station statuses with features for both users and admins.
 

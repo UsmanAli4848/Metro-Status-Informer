@@ -13,7 +13,7 @@ A Flutter app that displays live metro station statuses with features for both u
 
 ## 📱 Screenshots
 
-<img width="720" height="1600" alt="Screenshot_20250714-104134" src="https://github.com/user-attachments/assets/ab8f6fad-5eb5-46a4-aafb-c84ef7523be8" />
+<img width="400" height="800" alt="Screenshot_20250714-104134" src="https://github.com/user-attachments/assets/ab8f6fad-5eb5-46a4-aafb-c84ef7523be8" />
 <img width="720" height="1600" alt="Screenshot_20250720_135735" src="https://github.com/user-attachments/assets/df482519-faa2-48ad-940d-d564a9da702a" />
 <img width="720" height="1600" alt="Screenshot_20250720_135752" src="https://github.com/user-attachments/assets/7f0a0711-80a2-4ea8-979b-ea0c8fa771ec" />
 <img width="720" height="1600" alt="Screenshot_20250720_135805" src="https://github.com/user-attachments/assets/3f8806e6-a1b2-401d-94da-cf29437f1089" />

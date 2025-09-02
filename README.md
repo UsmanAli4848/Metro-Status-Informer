@@ -4,9 +4,9 @@ A Flutter app that displays live metro station statuses with features for both u
 
 ## ✨ Features
 
-- ✅ Check status of all 24 metro stations
+- ✅ Check status of all metro stations in Rawalpindi & Islamabad
 - ⭐ Favorite stations for quick access
-- 🧭 View route maps
+- 🧭 Interactive route maps
 - 🔐 Login/Signup for users
 - 🔑 Admin login to update station status, add new stations, edit or delete current stations.
 - ☁️ Firebase backend
